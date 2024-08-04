@@ -25,7 +25,7 @@ const HomePage = () => {
   };
 
   return (
-    <div className="bg-white z-50">
+    <div className="z-50">
       {banners.map((banner, index) => (
         <BannerImageComp
           key={index}
