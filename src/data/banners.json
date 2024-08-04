@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Banner 1",
+      "description": "This is the first banner",
+      "cta": "Signup",
+      "image": "/banner-image.png"
+    },
+    {
+      "title": "Banner 2",
+      "description": "This is the second banner",
+      "cta": "Learn More",
+      "image": "/banner-image.png"
+    
+    },
+    {
+        "title": "Banner 2",
+        "description": "This is the second banner",
+        "cta": "login",
+        "image": "/banner-image.png"
+      
+    }
+  ]
+  
